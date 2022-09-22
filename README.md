@@ -1,4 +1,4 @@
-# java-for-beginners
+# Java-for-beginners
 This repository for beginners who atleast knows the basic of programming language general concept such as 
 1. If-else
 2. Loops 
